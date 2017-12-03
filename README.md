@@ -1,8 +1,10 @@
+
 # microservice-springboot-springcloud-eureka
 
 Zuul, Spring Cloud Eureka and Hystrix(fallbackMethod and Circuit Breaker) 
 
 Components : 
+
 Spring Cloud Eureka : service registry
 
 Zuul : (edge server) This is the Gateway/Edge Service which is registered with Eureka and routes the requests to Client and Server using Eureka Service
